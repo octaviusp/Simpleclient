@@ -1,0 +1,17 @@
+{
+    "name":"COMPANIES API",
+    "description": "API REST CREATED IN JAVA VERT.X FOR COMPANIES.",
+    "endpoints": {
+        "GET": [{
+            "tag":"companies",
+            "url":"127.0.0.1:8075/companies"
+        }, {
+            "tag":"challenges",
+            "url":"127.0.0.1:8075/challenges"
+        }],
+        "POST": [{}],
+        "PUT": [{}],
+        "PATCH": [{}],
+        "DELETE": [{}]
+    }
+}
